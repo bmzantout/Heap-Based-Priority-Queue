@@ -14,7 +14,8 @@ Before getting started with this project, you will need to have a working knowle
 
 ### Installation
 
-To get started with this project, you can read the tasks of the project written in the attached "Tasks.pdf" and start implementing based on the given guidelines. You can also use the text files to scan the input and check your work. 
+To get started with this project, you can read the tasks of the project written in the attached "Tasks.pdf" and start implementing based on the given guidelines. You can also use the text files to scan the input and check your work. [Tasks.pdf](https://github.com/bmzantout/Heap-Based-Priority-Queue/files/11221352/Tasks.pdf)
+
 
 ## Contributing
 
