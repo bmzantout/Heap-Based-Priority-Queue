@@ -9,9 +9,6 @@ public class Main {
 	//-----------------------------------------------------------------
 	// Title: Question 1
 	// Author: Basme Zantout - Zeynep Sude Bal
-	// ID: 99227947762 - 22399623714 
-	// Section: 1
-	// Assignment: 4
 	// Description: This is the main class for Question 1 which depends
 	//              on the following classes: 
 	//              "Scheduling.java", "Customer.java",
