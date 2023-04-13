@@ -6,9 +6,6 @@ public class Courier {
 	//-----------------------------------------------------
 	// Title: Question 1
 	// Author: Basme Zantout - Zeynep Sude Bal
-	// ID: 99227947762 - 22399623714 
-	// Section: 1
-	// Assignment: 4
 	// Description: This is the class that has the Couriers'
 	//              information attributes and the constructor
 	//              that creates a new Courier object
