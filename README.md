@@ -1,5 +1,5 @@
 # Heap-Based Priority Queue
-A project to have hands-on practice on the implementation of Heap-Based Priority Queue structure.
+A project that provides hands-on practice on the implementation of Heap-Based Priority Queue structure.
 
 ## Data Structures and Algorithms Project
 ## Introduction
