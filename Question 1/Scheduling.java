@@ -6,11 +6,8 @@ public class Scheduling {
 	//-----------------------------------------------------
 	// Title: Question 1
 	// Author: Basme Zantout - Zeynep Sude Bal
-	// ID: 99227947762 - 22399623714 
-	// Section: 1
-	// Assignment: 4
 	// Description: This is the class that does the required 
-    //              calculation to find the simulation with 
+        //              calculation to find the simulation with 
 	//              the optimum number of Couriers and a 
 	//              limited average waiting time duration
 	//-----------------------------------------------------
